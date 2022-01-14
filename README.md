@@ -1,9 +1,9 @@
 ### Oiê, eu sou a Virginia 🙆‍♀️
 
-- 🔭 Atualmente estou trabalhando como Analista de mídias sociais.
-- 🌱 Estou me aprimorando em Front-End, UX/UI e Salesforce.
+- 🔭 Atualmente estou trabalhando como Auxiliar de Mkt.
+- 🌱 Estou me aprimorando em Front-End e Salesforce.
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: 
+
 
 <div align="center">
   <a href="https://github.com/CarvalhoVirginia">
