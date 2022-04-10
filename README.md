@@ -1,6 +1,6 @@
 ### Oiê, eu sou a Virginia 🙆‍♀️
 
-- 🔭 Atualmente estou trabalhando como Auxiliar de Mkt.
+- 🔭 Atualmente estou trabalhando como Analista Salesforce Jr.
 - 🌱 Estou me aprimorando em Front-End e Salesforce.
 - 😄 Pronouns: Ela/Dela
 
